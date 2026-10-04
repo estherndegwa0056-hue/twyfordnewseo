@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://twyfordtiles.co.ke/sitemap.xml
